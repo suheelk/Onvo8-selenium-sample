@@ -16,7 +16,7 @@ jobs:
           --header 'Content-Type: application/json' \
           --header 'Authorization: Basic c3VoZWVsOkxUXzh1b0hZMUpxbEdTUTJCUTZRVHE4ZEJuZEx4UWZTTzRsQ0o2NkY1dlJQYU1rOVZR' \
           --data '{
-            "test_run_id": "01KQ9TG5RECMFC35SZ74A5VH3J",
+            "test_run_id": "01KQA0A0NTT81G0605WE8R0C91",
             "concurrency": 1,
             "title": "Onvo8 Test"
           }')
